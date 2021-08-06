@@ -1,0 +1,7 @@
+.list-group-item-action:hover {
+  background-color: rgb(202, 214, 254) !important;
+}
+.form-check-input {
+  color: rgb(172, 172, 172) !important;
+  /* border: unset !important; */
+}
